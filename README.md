@@ -1,6 +1,8 @@
 # Rock_or_Mine_Prediction
 Welcome to the "Rock or Mine Prediction" project repository. In this project, we use machine learning techniques to predict whether underwater objects are rocks or mines based on sonar signal patterns. The dataset used for this project is the Sonar dataset, which contains sonar signals reflected from metal cylinders (mines) and rough cylindrical rocks. The SONAR technique has revolutionized rock and mineral detection, simplifying what used to be a complex process. By leveraging specific parameters, this method efficiently identifies surface obstacles like rocks and mines. Machine learning is a pivotal force in modern technology. Predictive analytics advancements are showcased in this prediction method, utilizing machine learning algorithms like logistic regression, easily accessible through Google Colab.
 
+![Rock or Mine](rock_or_mine.jpg)
+
 
 ## Open in Colab
 
