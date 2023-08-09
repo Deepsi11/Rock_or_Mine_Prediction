@@ -46,6 +46,9 @@ The chosen model is Logistic Regression, a statistical approach that employs a l
 - I also have created a Predictive System in which, it will take some input and will predict whether the object is "rock" or "mine".
 - In the end, I have saved the model for Deployment purpose.
 
+# Conclusion
+![conclusion](conclusion.png)
+
 
 
 
