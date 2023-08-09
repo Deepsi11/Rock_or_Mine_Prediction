@@ -12,6 +12,7 @@ Welcome to the "Rock or Mine Prediction" project repository. In this project, we
 # Project Overview
 The primary goal of this project is to demonstrate how machine learning can be applied to classify underwater objects as either rocks or mines. We explore different algorithms, preprocessing techniques, and evaluation model to build an effective prediction model.
 
+![Workflow](workflow.png)
 
 # Dataset
 The Sonar dataset is obtained from "Kaggle, The Data Science Community". It comprises 208 sonar signals, each representing the response of a sonar chirp signal bounced off an underwater object. The dataset is labeled with two classes: "M" (mine) and "R" (rock). This data is used for training and testing purpose. The Last column in this dataset indicates that, whether it's a mine or a rock, which is useful in prediction. The dataset is included in this repository.
